@@ -1,0 +1,3 @@
+# Android Studio buni avtomatik yaratadi. Terminalda build qilsangiz,
+# faylni local.properties deb nomlang va SDK yo'lini ko'rsating:
+# sdk.dir=/Users/<siz>/Library/Android/sdk
